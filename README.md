@@ -4,7 +4,7 @@ In this project the Arduino and ASCOM codes are a creation of Kevin Ferrare (tha
 ![Final](https://raw.githubusercontent.com/DominiqueMACHU/Interface-Arduino-ST4-for-NEQ5/master/Pilotage_NEQ5_final.PNG)
 
 # Dossier de realisation
-
+![DO-IT](https://raw.githubusercontent.com/DominiqueMACHU/Interface-Arduino-ST4-for-NEQ5/master/Dossier_de_réalisation.PNG)
 
 
 
